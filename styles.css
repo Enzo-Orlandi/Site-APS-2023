@@ -1,0 +1,114 @@
+.button {
+    border: 3px solid #0B6623;
+    width: 16%;
+    padding: 11px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 20px;
+    margin: 4px 2px;
+    cursor: pointer;
+    background-color: #4CBB27;
+    position: absolute;
+    color: #043927;
+}
+.colorlink {
+    color: #043927;
+}
+.menu {
+    margin: auto;
+    width: 50%;
+    padding: 60px;
+}
+.voltar {
+    border: 3px solid #0B6623;
+    padding: 11px;
+    width: 16%;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 20px;
+    margin: 4px 2px;
+    cursor: pointer;
+    background-color: #4CBB27;
+    position: relative;
+    left: 82%;
+    color: #043927;
+}
+.formulario {
+    border: 3px solid #0B6623;
+    background-color: #4CBB27;
+    padding: 40px;  
+    margin: auto;
+    color: #043927;
+    width: 50%;
+    text-align: center;
+
+}
+.lacunas {
+    color: #4CBB27;
+    background-color: #0B6623;
+}
+.btnform {
+    border: 2px solid #0B6623;
+    padding: 8px 13px; 
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 10px;
+    margin: 4px 2px;
+    cursor: pointer;
+    background-color: #4CBB27;
+}
+.linhas {
+    line-height: 0%;
+}
+.note {
+    font-size: 20px;
+}
+h1 {
+    font-size: 20px;
+}
+h2 {
+    font-size: 18px;
+}
+h3 {
+    font-size: 15px;
+}
+h4 {
+    font-size: 30px;
+}
+body {
+    background-image: url('grass.jpg');
+}
+select {
+    background-color: #0B6623;
+    color: #4CBB27;
+}
+#btn1 {
+    left: 2%;
+    top: 3%;
+}
+#btn2 {
+    left: 22%;
+    top: 3%;
+}
+#btn3 {
+    left: 42%;
+    top: 3%;
+}
+#btn4 {
+    left: 62%;
+    top: 3%;
+}
+#btn5 {
+    left: 82%;
+    top: 3%;
+}
+#btn6 {
+    left: 42%;
+    top: 45%;
+}
+::placeholder {
+    color: #4CBB27;
+}

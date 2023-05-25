@@ -1,0 +1,1 @@
+Para utilização correta do site, coloque todos os arquivos em uma única pasta e abra pelo "index.html"
